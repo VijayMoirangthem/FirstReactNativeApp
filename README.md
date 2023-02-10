@@ -3,6 +3,15 @@ To-Do list
 
 Simple React Native App built using Expo CLI
 
+(i) Developed a cross-platform to-do application using React Native.
+(ii) Implemented a user-friendly interface using React Native components such as View, Button, TextInput, and FlatList.
+(iii) Utilized state management with the useState hook for dynamic updates to the list of tasks.
+(iv) Built a custom modal component for adding new tasks and integrated it with the main application.
+(v) Incorporated a unique identifier for each task using Math.random().toString and used it to delete tasks.
+(vi) Designed a clean and aesthetically pleasing layout using CSS styles in React Native.
+(vii) Deployed the application on both Android and iOS platforms using Expo.
+(viii) Continuously tested and improved the application to enhance the user experience.
+
 Features:
 * We can add task or notes.
 * Delete notes with one tap on the note.
